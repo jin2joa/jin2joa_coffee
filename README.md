@@ -19,3 +19,6 @@
 - `user-scalable=no`: 사용자가 디바이스 화면을 확대(yes)/축소(no)할 수 있는지 설정
 - `maximum-scale=1`: 사용자가 화면을 확대할 수 있는 최댓값
 - `minimum-scale=1`: 사용자가 화면을 축소할 수 있는 최솟값
+
+# Favicon(파비콘, favorites icon)
+___
