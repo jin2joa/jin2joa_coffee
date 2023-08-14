@@ -21,4 +21,4 @@
 - `minimum-scale=1`: 사용자가 화면을 축소할 수 있는 최솟값
 
 # Favicon(파비콘, favorites icon)
-___
+***
