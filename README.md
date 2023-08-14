@@ -15,7 +15,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 ```
 - ```html 
-  width=device-width```: 화면의 가로 너비를 각 디바이스(Device)의 가로 너비와 동일하게 적용
+  width=device-width
+  ```
+  : 화면의 가로 너비를 각 디바이스(Device)의 가로 너비와 동일하게 적용
 - initial-scale=1.0: 화면의 초기 화면 배율(확대 정도)을 설정
 - user-scalable=no: 사용자가 디바이스 화면을 확대(yes)/축소(no)할 수 있는지 설정
 - maximum-scale=1: 사용자가 화면을 확대할 수 있는 최댓값
