@@ -1,3 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc7ef7cf-1333-4eec-b2fd-095f924bcc45/deploy-status)](https://app.netlify.com/sites/nimble-entremet-e15378/deploys)
+
+# ☕ 클론코딩
+교재의 예제를 보고 헤로피커리 랜딩 페이지(홈페이지)를 만드는 예제입니다.  
+꼭 ⬇️ 아래 내용 모두 읽어보시고, ⬆️ 완성된 코드도 확인해 보세요.
+
 ## 문자 코딩(Character Encoding) 설정
 
 문자가 인코딩되는 방식을 설정합니다.  
